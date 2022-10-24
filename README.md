@@ -1,21 +1,26 @@
+test22222222222
 dev test1 111
+
 # Getting Started with Create React App
+
 풀리퀘스트테스트/리드미업데이트
+
 adsfasdf
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
 olloalalalaoalaoalalallalalalal
 adsflkajdslgnjakldgnjalkdfjgadfg
+
 ## Available Scripts
+
 테스트222222
 In the project directory, you can run:
-
 
 heloo wordldld hohohohohoho
 
 ### `npm start`
-third***third***third***third***third***third***third***third***third***
+
+third**_third_**third**_third_**third**_third_**third**_third_**third\*\*\*
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -28,6 +33,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 test errir!!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!
 test errir!!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!test errir!!!!!!!!!!!!!!!!!!
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -38,6 +44,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 build error!!!!!!!!!!!!!!build error!!!!!!!!!!!!!!build error!!!!!!!!!!!!!!build error!!!!!!!!!!!!!!build error!!!!!!!!!!!!!!
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -77,4 +84,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
- 
